@@ -31,7 +31,7 @@ def test_bitwise_operators():
 
     # XOR
     # Sets each bit to 1 if only one of two bits is 1.
-    #
+    # Sets the bit to 0 if both bits are 1
     # Example:
     # 5 = 0b0101
     # 3 = 0b0011
